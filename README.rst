@@ -37,6 +37,6 @@ Contributors
 
 * Yuri A. Petrov <rfpk.dev@yandex.ru>
 
-To contribute to this module, please visit https://github.com/rfpk/odoo/module_list_updater
+To contribute to this module, please visit https://github.com/rfpk/module_list_updater
 
 
