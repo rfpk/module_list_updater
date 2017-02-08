@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2017 Yuri A. Petrov <rfpk.dev@yandex.ru>
+     License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl). -->
+
+<openerp>
+    <data>
+        <function model="ir.module.module" name="update_list"/>
+    </data>
+</openerp>
